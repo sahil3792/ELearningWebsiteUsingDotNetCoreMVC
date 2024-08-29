@@ -1,5 +1,6 @@
 using ELearningWebAppUsingMVCArchitecture.Data;
 using ELearningWebAppUsingMVCArchitecture.Repo;
+using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Options;
 
@@ -11,6 +12,22 @@ builder.Services.AddDbContext<ApplicationDbContext>(options => options.UseSqlSer
     builder.Configuration.GetConnectionString("UnicatCore")));
 
 builder.Services.AddScoped<AuthRepo, AuthService>();
+builder.Services.AddHttpContextAccessor();
+builder.Services.AddSession(options => {
+    options.IdleTimeout = TimeSpan.FromMinutes(5);
+    options.Cookie.HttpOnly = true;
+    options.Cookie.IsEssential = true;
+});
+
+
+builder.Services.AddAuthentication(
+    CookieAuthenticationDefaults.AuthenticationScheme).AddCookie(
+    options=>
+    {
+        options.ExpireTimeSpan = TimeSpan.FromDays(1);
+        options.LoginPath = "/Auth/SignIn";
+        options.AccessDeniedPath = "/Auth/SignIn";
+    });
 
 
 var app = builder.Build();
@@ -27,7 +44,7 @@ app.UseHttpsRedirection();
 app.UseStaticFiles();
 
 app.UseRouting();
-
+app.UseAuthentication();
 app.UseAuthorization();
 
 app.MapControllerRoute(

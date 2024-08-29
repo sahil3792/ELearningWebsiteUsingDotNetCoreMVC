@@ -1,4 +1,5 @@
-﻿<!DOCTYPE html>
+﻿@* @inject HttpContextAccessor HttpContextAccessor *@
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="utf-8" />
@@ -45,9 +46,13 @@
 											<div>info.deercreative@gmail.com</div>
 										</li>
 									</ul>
+									@* if(HttpContextAccessor.HttpContext.Session.GetString("Admin") || HttpContextAccessor.HttpContext.Session.GetString("User"))
+									{ *@
 									<div class="top_bar_login ml-auto">
 										<div class="login_button"><a asp-controller="Auth" asp-action="SignUp">Register or Login</a></div>
 									</div>
+									@* } *@
+									
 								</div>
 							</div>
 						</div>

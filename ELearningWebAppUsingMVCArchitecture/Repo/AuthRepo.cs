@@ -6,5 +6,7 @@ namespace ELearningWebAppUsingMVCArchitecture.Repo
     {
 
         void AddUser(User u);
+
+        int AuthenticateUser(User u);
     }
 }
