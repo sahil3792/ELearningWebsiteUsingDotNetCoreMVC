@@ -1,4 +1,5 @@
 using ELearningWebAppUsingMVCArchitecture.Data;
+using ELearningWebAppUsingMVCArchitecture.Repo;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Options;
 
@@ -8,6 +9,8 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllersWithViews();
 builder.Services.AddDbContext<ApplicationDbContext>(options => options.UseSqlServer(
     builder.Configuration.GetConnectionString("UnicatCore")));
+
+builder.Services.AddScoped<AuthRepo, AuthService>();
 
 
 var app = builder.Build();

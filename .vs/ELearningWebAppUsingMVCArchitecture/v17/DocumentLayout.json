@@ -3,48 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\ELearningWebAppUsingMVCArchitecture\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0703B5F2-F0D9-4268-A1FB-73573CD13E5B}|ELearningWebAppUsingMVCArchitecture\\ELearningWebAppUsingMVCArchitecture.csproj|c:\\users\\admin\\desktop\\sahil shaikh\\elearningwebappusingmvcarchitecture\\elearningwebappusingmvcarchitecture\\repo\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0703B5F2-F0D9-4268-A1FB-73573CD13E5B}|ELearningWebAppUsingMVCArchitecture\\ELearningWebAppUsingMVCArchitecture.csproj|solutionrelative:elearningwebappusingmvcarchitecture\\repo\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0703B5F2-F0D9-4268-A1FB-73573CD13E5B}|ELearningWebAppUsingMVCArchitecture\\ELearningWebAppUsingMVCArchitecture.csproj|c:\\users\\admin\\desktop\\sahil shaikh\\elearningwebappusingmvcarchitecture\\elearningwebappusingmvcarchitecture\\repo\\authrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0703B5F2-F0D9-4268-A1FB-73573CD13E5B}|ELearningWebAppUsingMVCArchitecture\\ELearningWebAppUsingMVCArchitecture.csproj|solutionrelative:elearningwebappusingmvcarchitecture\\repo\\authrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0703B5F2-F0D9-4268-A1FB-73573CD13E5B}|ELearningWebAppUsingMVCArchitecture\\ELearningWebAppUsingMVCArchitecture.csproj|c:\\users\\admin\\desktop\\sahil shaikh\\elearningwebappusingmvcarchitecture\\elearningwebappusingmvcarchitecture\\elearningwebappusingmvcarchitecture.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{0703B5F2-F0D9-4268-A1FB-73573CD13E5B}|ELearningWebAppUsingMVCArchitecture\\ELearningWebAppUsingMVCArchitecture.csproj|solutionrelative:elearningwebappusingmvcarchitecture\\elearningwebappusingmvcarchitecture.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0703B5F2-F0D9-4268-A1FB-73573CD13E5B}|ELearningWebAppUsingMVCArchitecture\\ELearningWebAppUsingMVCArchitecture.csproj|c:\\users\\admin\\desktop\\sahil shaikh\\elearningwebappusingmvcarchitecture\\elearningwebappusingmvcarchitecture\\views\\auth\\signin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0703B5F2-F0D9-4268-A1FB-73573CD13E5B}|ELearningWebAppUsingMVCArchitecture\\ELearningWebAppUsingMVCArchitecture.csproj|solutionrelative:elearningwebappusingmvcarchitecture\\views\\auth\\signin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0703B5F2-F0D9-4268-A1FB-73573CD13E5B}|ELearningWebAppUsingMVCArchitecture\\ELearningWebAppUsingMVCArchitecture.csproj|c:\\users\\admin\\desktop\\sahil shaikh\\elearningwebappusingmvcarchitecture\\elearningwebappusingmvcarchitecture\\views\\auth\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0703B5F2-F0D9-4268-A1FB-73573CD13E5B}|ELearningWebAppUsingMVCArchitecture\\ELearningWebAppUsingMVCArchitecture.csproj|solutionrelative:elearningwebappusingmvcarchitecture\\views\\auth\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0703B5F2-F0D9-4268-A1FB-73573CD13E5B}|ELearningWebAppUsingMVCArchitecture\\ELearningWebAppUsingMVCArchitecture.csproj|c:\\users\\admin\\desktop\\sahil shaikh\\elearningwebappusingmvcarchitecture\\elearningwebappusingmvcarchitecture\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0703B5F2-F0D9-4268-A1FB-73573CD13E5B}|ELearningWebAppUsingMVCArchitecture\\ELearningWebAppUsingMVCArchitecture.csproj|solutionrelative:elearningwebappusingmvcarchitecture\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0703B5F2-F0D9-4268-A1FB-73573CD13E5B}|ELearningWebAppUsingMVCArchitecture\\ELearningWebAppUsingMVCArchitecture.csproj|c:\\users\\admin\\desktop\\sahil shaikh\\elearningwebappusingmvcarchitecture\\elearningwebappusingmvcarchitecture\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0703B5F2-F0D9-4268-A1FB-73573CD13E5B}|ELearningWebAppUsingMVCArchitecture\\ELearningWebAppUsingMVCArchitecture.csproj|solutionrelative:elearningwebappusingmvcarchitecture\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0703B5F2-F0D9-4268-A1FB-73573CD13E5B}|ELearningWebAppUsingMVCArchitecture\\ELearningWebAppUsingMVCArchitecture.csproj|c:\\users\\admin\\desktop\\sahil shaikh\\elearningwebappusingmvcarchitecture\\elearningwebappusingmvcarchitecture\\views\\index\\courses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0703B5F2-F0D9-4268-A1FB-73573CD13E5B}|ELearningWebAppUsingMVCArchitecture\\ELearningWebAppUsingMVCArchitecture.csproj|solutionrelative:elearningwebappusingmvcarchitecture\\views\\index\\courses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{0703B5F2-F0D9-4268-A1FB-73573CD13E5B}|ELearningWebAppUsingMVCArchitecture\\ELearningWebAppUsingMVCArchitecture.csproj|c:\\users\\admin\\desktop\\sahil shaikh\\elearningwebappusingmvcarchitecture\\elearningwebappusingmvcarchitecture\\repo\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0703B5F2-F0D9-4268-A1FB-73573CD13E5B}|ELearningWebAppUsingMVCArchitecture\\ELearningWebAppUsingMVCArchitecture.csproj|solutionrelative:elearningwebappusingmvcarchitecture\\repo\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0703B5F2-F0D9-4268-A1FB-73573CD13E5B}|ELearningWebAppUsingMVCArchitecture\\ELearningWebAppUsingMVCArchitecture.csproj|c:\\users\\admin\\desktop\\sahil shaikh\\elearningwebappusingmvcarchitecture\\elearningwebappusingmvcarchitecture\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0703B5F2-F0D9-4268-A1FB-73573CD13E5B}|ELearningWebAppUsingMVCArchitecture\\ELearningWebAppUsingMVCArchitecture.csproj|solutionrelative:elearningwebappusingmvcarchitecture\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0703B5F2-F0D9-4268-A1FB-73573CD13E5B}|ELearningWebAppUsingMVCArchitecture\\ELearningWebAppUsingMVCArchitecture.csproj|c:\\users\\admin\\desktop\\sahil shaikh\\elearningwebappusingmvcarchitecture\\elearningwebappusingmvcarchitecture\\views\\auth\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0703B5F2-F0D9-4268-A1FB-73573CD13E5B}|ELearningWebAppUsingMVCArchitecture\\ELearningWebAppUsingMVCArchitecture.csproj|solutionrelative:elearningwebappusingmvcarchitecture\\views\\auth\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0703B5F2-F0D9-4268-A1FB-73573CD13E5B}|ELearningWebAppUsingMVCArchitecture\\ELearningWebAppUsingMVCArchitecture.csproj|c:\\users\\admin\\desktop\\sahil shaikh\\elearningwebappusingmvcarchitecture\\elearningwebappusingmvcarchitecture\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0703B5F2-F0D9-4268-A1FB-73573CD13E5B}|ELearningWebAppUsingMVCArchitecture\\ELearningWebAppUsingMVCArchitecture.csproj|solutionrelative:elearningwebappusingmvcarchitecture\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0703B5F2-F0D9-4268-A1FB-73573CD13E5B}|ELearningWebAppUsingMVCArchitecture\\ELearningWebAppUsingMVCArchitecture.csproj|c:\\users\\admin\\desktop\\sahil shaikh\\elearningwebappusingmvcarchitecture\\elearningwebappusingmvcarchitecture\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0703B5F2-F0D9-4268-A1FB-73573CD13E5B}|ELearningWebAppUsingMVCArchitecture\\ELearningWebAppUsingMVCArchitecture.csproj|solutionrelative:elearningwebappusingmvcarchitecture\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{0703B5F2-F0D9-4268-A1FB-73573CD13E5B}|ELearningWebAppUsingMVCArchitecture\\ELearningWebAppUsingMVCArchitecture.csproj|c:\\users\\admin\\desktop\\sahil shaikh\\elearningwebappusingmvcarchitecture\\elearningwebappusingmvcarchitecture\\repo\\authrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0703B5F2-F0D9-4268-A1FB-73573CD13E5B}|ELearningWebAppUsingMVCArchitecture\\ELearningWebAppUsingMVCArchitecture.csproj|solutionrelative:elearningwebappusingmvcarchitecture\\repo\\authrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0703B5F2-F0D9-4268-A1FB-73573CD13E5B}|ELearningWebAppUsingMVCArchitecture\\ELearningWebAppUsingMVCArchitecture.csproj|c:\\users\\admin\\desktop\\sahil shaikh\\elearningwebappusingmvcarchitecture\\elearningwebappusingmvcarchitecture\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0703B5F2-F0D9-4268-A1FB-73573CD13E5B}|ELearningWebAppUsingMVCArchitecture\\ELearningWebAppUsingMVCArchitecture.csproj|solutionrelative:elearningwebappusingmvcarchitecture\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0703B5F2-F0D9-4268-A1FB-73573CD13E5B}|ELearningWebAppUsingMVCArchitecture\\ELearningWebAppUsingMVCArchitecture.csproj|c:\\users\\admin\\desktop\\sahil shaikh\\elearningwebappusingmvcarchitecture\\elearningwebappusingmvcarchitecture\\controllers\\indexcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0703B5F2-F0D9-4268-A1FB-73573CD13E5B}|ELearningWebAppUsingMVCArchitecture\\ELearningWebAppUsingMVCArchitecture.csproj|solutionrelative:elearningwebappusingmvcarchitecture\\controllers\\indexcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0703B5F2-F0D9-4268-A1FB-73573CD13E5B}|ELearningWebAppUsingMVCArchitecture\\ELearningWebAppUsingMVCArchitecture.csproj|c:\\users\\admin\\desktop\\sahil shaikh\\elearningwebappusingmvcarchitecture\\elearningwebappusingmvcarchitecture\\elearningwebappusingmvcarchitecture.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0703B5F2-F0D9-4268-A1FB-73573CD13E5B}|ELearningWebAppUsingMVCArchitecture\\ELearningWebAppUsingMVCArchitecture.csproj|solutionrelative:elearningwebappusingmvcarchitecture\\elearningwebappusingmvcarchitecture.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0703B5F2-F0D9-4268-A1FB-73573CD13E5B}|ELearningWebAppUsingMVCArchitecture\\ELearningWebAppUsingMVCArchitecture.csproj|c:\\users\\admin\\desktop\\sahil shaikh\\elearningwebappusingmvcarchitecture\\elearningwebappusingmvcarchitecture\\views\\index\\courses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0703B5F2-F0D9-4268-A1FB-73573CD13E5B}|ELearningWebAppUsingMVCArchitecture\\ELearningWebAppUsingMVCArchitecture.csproj|solutionrelative:elearningwebappusingmvcarchitecture\\views\\index\\courses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0703B5F2-F0D9-4268-A1FB-73573CD13E5B}|ELearningWebAppUsingMVCArchitecture\\ELearningWebAppUsingMVCArchitecture.csproj|c:\\users\\admin\\desktop\\sahil shaikh\\elearningwebappusingmvcarchitecture\\elearningwebappusingmvcarchitecture\\views\\index\\blog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -66,47 +66,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 14,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AuthService.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\ELearningWebAppUsingMVCArchitecture\\ELearningWebAppUsingMVCArchitecture\\Repo\\AuthService.cs",
-              "RelativeDocumentMoniker": "ELearningWebAppUsingMVCArchitecture\\Repo\\AuthService.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\ELearningWebAppUsingMVCArchitecture\\ELearningWebAppUsingMVCArchitecture\\Repo\\AuthService.cs",
-              "RelativeToolTip": "ELearningWebAppUsingMVCArchitecture\\Repo\\AuthService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-29T09:54:11.535Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AuthRepo.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\ELearningWebAppUsingMVCArchitecture\\ELearningWebAppUsingMVCArchitecture\\Repo\\AuthRepo.cs",
-              "RelativeDocumentMoniker": "ELearningWebAppUsingMVCArchitecture\\Repo\\AuthRepo.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\ELearningWebAppUsingMVCArchitecture\\ELearningWebAppUsingMVCArchitecture\\Repo\\AuthRepo.cs",
-              "RelativeToolTip": "ELearningWebAppUsingMVCArchitecture\\Repo\\AuthRepo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-29T09:53:38.95Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ELearningWebAppUsingMVCArchitecture",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\ELearningWebAppUsingMVCArchitecture\\ELearningWebAppUsingMVCArchitecture\\ELearningWebAppUsingMVCArchitecture.csproj",
-              "RelativeDocumentMoniker": "ELearningWebAppUsingMVCArchitecture\\ELearningWebAppUsingMVCArchitecture.csproj",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\ELearningWebAppUsingMVCArchitecture\\ELearningWebAppUsingMVCArchitecture\\ELearningWebAppUsingMVCArchitecture.csproj",
-              "RelativeToolTip": "ELearningWebAppUsingMVCArchitecture\\ELearningWebAppUsingMVCArchitecture.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-08-29T09:33:45.943Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
@@ -161,124 +122,72 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
+              "Title": "AuthRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\ELearningWebAppUsingMVCArchitecture\\ELearningWebAppUsingMVCArchitecture\\Repo\\AuthRepo.cs",
+              "RelativeDocumentMoniker": "ELearningWebAppUsingMVCArchitecture\\Repo\\AuthRepo.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\ELearningWebAppUsingMVCArchitecture\\ELearningWebAppUsingMVCArchitecture\\Repo\\AuthRepo.cs",
+              "RelativeToolTip": "ELearningWebAppUsingMVCArchitecture\\Repo\\AuthRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T09:53:38.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "SignIn.cshtml",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\ELearningWebAppUsingMVCArchitecture\\ELearningWebAppUsingMVCArchitecture\\Views\\Auth\\SignIn.cshtml",
               "RelativeDocumentMoniker": "ELearningWebAppUsingMVCArchitecture\\Views\\Auth\\SignIn.cshtml",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\ELearningWebAppUsingMVCArchitecture\\ELearningWebAppUsingMVCArchitecture\\Views\\Auth\\SignIn.cshtml",
               "RelativeToolTip": "ELearningWebAppUsingMVCArchitecture\\Views\\Auth\\SignIn.cshtml",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAACUAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-08-29T08:43:46.066Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Courses.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\ELearningWebAppUsingMVCArchitecture\\ELearningWebAppUsingMVCArchitecture\\Views\\Index\\Courses.cshtml",
-              "RelativeDocumentMoniker": "ELearningWebAppUsingMVCArchitecture\\Views\\Index\\Courses.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\ELearningWebAppUsingMVCArchitecture\\ELearningWebAppUsingMVCArchitecture\\Views\\Index\\Courses.cshtml",
-              "RelativeToolTip": "ELearningWebAppUsingMVCArchitecture\\Views\\Index\\Courses.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIoBAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-28T10:33:34.192Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\ELearningWebAppUsingMVCArchitecture\\ELearningWebAppUsingMVCArchitecture\\Program.cs",
-              "RelativeDocumentMoniker": "ELearningWebAppUsingMVCArchitecture\\Program.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\ELearningWebAppUsingMVCArchitecture\\ELearningWebAppUsingMVCArchitecture\\Program.cs",
-              "RelativeToolTip": "ELearningWebAppUsingMVCArchitecture\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA+AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-28T08:22:31.126Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Blog.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\ELearningWebAppUsingMVCArchitecture\\ELearningWebAppUsingMVCArchitecture\\Views\\Index\\Blog.cshtml",
-              "RelativeDocumentMoniker": "ELearningWebAppUsingMVCArchitecture\\Views\\Index\\Blog.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\ELearningWebAppUsingMVCArchitecture\\ELearningWebAppUsingMVCArchitecture\\Views\\Index\\Blog.cshtml",
-              "RelativeToolTip": "ELearningWebAppUsingMVCArchitecture\\Views\\Index\\Blog.cshtml",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAAOoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-28T11:06:08.668Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "IndexController.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\ELearningWebAppUsingMVCArchitecture\\ELearningWebAppUsingMVCArchitecture\\Controllers\\IndexController.cs",
-              "RelativeDocumentMoniker": "ELearningWebAppUsingMVCArchitecture\\Controllers\\IndexController.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\ELearningWebAppUsingMVCArchitecture\\ELearningWebAppUsingMVCArchitecture\\Controllers\\IndexController.cs",
-              "RelativeToolTip": "ELearningWebAppUsingMVCArchitecture\\Controllers\\IndexController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-28T08:23:21.343Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\ELearningWebAppUsingMVCArchitecture\\ELearningWebAppUsingMVCArchitecture\\Views\\Auth\\Index.cshtml",
-              "RelativeDocumentMoniker": "ELearningWebAppUsingMVCArchitecture\\Views\\Auth\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\ELearningWebAppUsingMVCArchitecture\\ELearningWebAppUsingMVCArchitecture\\Views\\Auth\\Index.cshtml",
-              "RelativeToolTip": "ELearningWebAppUsingMVCArchitecture\\Views\\Auth\\Index.cshtml",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAAB8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-29T08:08:55.49Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\ELearningWebAppUsingMVCArchitecture\\ELearningWebAppUsingMVCArchitecture\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "ELearningWebAppUsingMVCArchitecture\\Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\ELearningWebAppUsingMVCArchitecture\\ELearningWebAppUsingMVCArchitecture\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "ELearningWebAppUsingMVCArchitecture\\Controllers\\AuthController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-29T07:56:58.023Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\ELearningWebAppUsingMVCArchitecture\\ELearningWebAppUsingMVCArchitecture\\Views\\Index\\Index.cshtml",
-              "RelativeDocumentMoniker": "ELearningWebAppUsingMVCArchitecture\\Views\\Index\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\ELearningWebAppUsingMVCArchitecture\\ELearningWebAppUsingMVCArchitecture\\Views\\Index\\Index.cshtml",
-              "RelativeToolTip": "ELearningWebAppUsingMVCArchitecture\\Views\\Index\\Index.cshtml",
-              "ViewState": "AQIAAH4CAAAAAAAAAABBwIQCAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-28T08:23:40.938Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\ELearningWebAppUsingMVCArchitecture\\ELearningWebAppUsingMVCArchitecture\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "ELearningWebAppUsingMVCArchitecture\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\ELearningWebAppUsingMVCArchitecture\\ELearningWebAppUsingMVCArchitecture\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "ELearningWebAppUsingMVCArchitecture\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAACQAAAAAAAAAAAAAAIsAAAAIAAAA",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAADAAAABPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-08-28T08:00:01.366Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
+              "Title": "SignUp.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\ELearningWebAppUsingMVCArchitecture\\ELearningWebAppUsingMVCArchitecture\\Views\\Auth\\SignUp.cshtml",
+              "RelativeDocumentMoniker": "ELearningWebAppUsingMVCArchitecture\\Views\\Auth\\SignUp.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\ELearningWebAppUsingMVCArchitecture\\ELearningWebAppUsingMVCArchitecture\\Views\\Auth\\SignUp.cshtml",
+              "RelativeToolTip": "ELearningWebAppUsingMVCArchitecture\\Views\\Auth\\SignUp.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T10:23:36.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\ELearningWebAppUsingMVCArchitecture\\ELearningWebAppUsingMVCArchitecture\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "ELearningWebAppUsingMVCArchitecture\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\ELearningWebAppUsingMVCArchitecture\\ELearningWebAppUsingMVCArchitecture\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "ELearningWebAppUsingMVCArchitecture\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAwwBgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T07:56:58.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\ELearningWebAppUsingMVCArchitecture\\ELearningWebAppUsingMVCArchitecture\\Models\\User.cs",
               "RelativeDocumentMoniker": "ELearningWebAppUsingMVCArchitecture\\Models\\User.cs",
@@ -291,6 +200,93 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\ELearningWebAppUsingMVCArchitecture\\ELearningWebAppUsingMVCArchitecture\\Repo\\AuthService.cs",
+              "RelativeDocumentMoniker": "ELearningWebAppUsingMVCArchitecture\\Repo\\AuthService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\ELearningWebAppUsingMVCArchitecture\\ELearningWebAppUsingMVCArchitecture\\Repo\\AuthService.cs",
+              "RelativeToolTip": "ELearningWebAppUsingMVCArchitecture\\Repo\\AuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBEAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T09:54:11.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\ELearningWebAppUsingMVCArchitecture\\ELearningWebAppUsingMVCArchitecture\\Program.cs",
+              "RelativeDocumentMoniker": "ELearningWebAppUsingMVCArchitecture\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\ELearningWebAppUsingMVCArchitecture\\ELearningWebAppUsingMVCArchitecture\\Program.cs",
+              "RelativeToolTip": "ELearningWebAppUsingMVCArchitecture\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T08:22:31.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IndexController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\ELearningWebAppUsingMVCArchitecture\\ELearningWebAppUsingMVCArchitecture\\Controllers\\IndexController.cs",
+              "RelativeDocumentMoniker": "ELearningWebAppUsingMVCArchitecture\\Controllers\\IndexController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\ELearningWebAppUsingMVCArchitecture\\ELearningWebAppUsingMVCArchitecture\\Controllers\\IndexController.cs",
+              "RelativeToolTip": "ELearningWebAppUsingMVCArchitecture\\Controllers\\IndexController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T08:23:21.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Blog.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\ELearningWebAppUsingMVCArchitecture\\ELearningWebAppUsingMVCArchitecture\\Views\\Index\\Blog.cshtml",
+              "RelativeDocumentMoniker": "ELearningWebAppUsingMVCArchitecture\\Views\\Index\\Blog.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\ELearningWebAppUsingMVCArchitecture\\ELearningWebAppUsingMVCArchitecture\\Views\\Index\\Blog.cshtml",
+              "RelativeToolTip": "ELearningWebAppUsingMVCArchitecture\\Views\\Index\\Blog.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAOoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T11:06:08.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Courses.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\ELearningWebAppUsingMVCArchitecture\\ELearningWebAppUsingMVCArchitecture\\Views\\Index\\Courses.cshtml",
+              "RelativeDocumentMoniker": "ELearningWebAppUsingMVCArchitecture\\Views\\Index\\Courses.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\ELearningWebAppUsingMVCArchitecture\\ELearningWebAppUsingMVCArchitecture\\Views\\Index\\Courses.cshtml",
+              "RelativeToolTip": "ELearningWebAppUsingMVCArchitecture\\Views\\Index\\Courses.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIoBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T10:33:34.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ELearningWebAppUsingMVCArchitecture.csproj",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\ELearningWebAppUsingMVCArchitecture\\ELearningWebAppUsingMVCArchitecture\\ELearningWebAppUsingMVCArchitecture.csproj",
+              "RelativeDocumentMoniker": "ELearningWebAppUsingMVCArchitecture\\ELearningWebAppUsingMVCArchitecture.csproj",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\ELearningWebAppUsingMVCArchitecture\\ELearningWebAppUsingMVCArchitecture\\ELearningWebAppUsingMVCArchitecture.csproj",
+              "RelativeToolTip": "ELearningWebAppUsingMVCArchitecture\\ELearningWebAppUsingMVCArchitecture.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-29T09:33:45.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\ELearningWebAppUsingMVCArchitecture\\ELearningWebAppUsingMVCArchitecture\\Views\\Index\\Index.cshtml",
+              "RelativeDocumentMoniker": "ELearningWebAppUsingMVCArchitecture\\Views\\Index\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\ELearningWebAppUsingMVCArchitecture\\ELearningWebAppUsingMVCArchitecture\\Views\\Index\\Index.cshtml",
+              "RelativeToolTip": "ELearningWebAppUsingMVCArchitecture\\Views\\Index\\Index.cshtml",
+              "ViewState": "AQIAAH4CAAAAAAAAAABBwIQCAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T08:23:40.938Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 12,
               "Title": "About.cshtml",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\ELearningWebAppUsingMVCArchitecture\\ELearningWebAppUsingMVCArchitecture\\Views\\Index\\About.cshtml",
@@ -299,8 +295,7 @@
               "RelativeToolTip": "ELearningWebAppUsingMVCArchitecture\\Views\\Index\\About.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-28T09:12:16.197Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-28T09:12:16.197Z"
             }
           ]
         },

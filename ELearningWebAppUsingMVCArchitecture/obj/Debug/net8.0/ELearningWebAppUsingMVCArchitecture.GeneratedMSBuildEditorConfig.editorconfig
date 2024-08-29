@@ -18,12 +18,12 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\Admin\Desktop\Sahil Shaikh\ELearningWebAppUsingMVCArchitecture\ELearningWebAppUsingMVCArchitecture
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Admin/Desktop/Sahil Shaikh/ELearningWebAppUsingMVCArchitecture/ELearningWebAppUsingMVCArchitecture/Views/Auth/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxJbmRleC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Users/Admin/Desktop/Sahil Shaikh/ELearningWebAppUsingMVCArchitecture/ELearningWebAppUsingMVCArchitecture/Views/Auth/SignIn.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxTaWduSW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Desktop/Sahil Shaikh/ELearningWebAppUsingMVCArchitecture/ELearningWebAppUsingMVCArchitecture/Views/Auth/SignUp.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxTaWduVXAuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Admin/Desktop/Sahil Shaikh/ELearningWebAppUsingMVCArchitecture/ELearningWebAppUsingMVCArchitecture/Views/Home/Index.cshtml]
