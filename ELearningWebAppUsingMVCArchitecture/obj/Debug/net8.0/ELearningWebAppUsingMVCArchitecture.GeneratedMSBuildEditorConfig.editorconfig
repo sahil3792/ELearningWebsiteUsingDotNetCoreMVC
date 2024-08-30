@@ -9,75 +9,83 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ELearningWebAppUsingMVCArchitecture
 build_property.RootNamespace = ELearningWebAppUsingMVCArchitecture
-build_property.ProjectDir = C:\Users\Admin\Desktop\Sahil Shaikh\ELearningWebsiteUsingDotNetCoreMVC\ELearningWebAppUsingMVCArchitecture\
+build_property.ProjectDir = C:\Users\USER\Documents\Projects\ELearningWebsiteUsingDotNetCoreMVC\ELearningWebAppUsingMVCArchitecture\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Admin\Desktop\Sahil Shaikh\ELearningWebsiteUsingDotNetCoreMVC\ELearningWebAppUsingMVCArchitecture
+build_property.MSBuildProjectDirectory = C:\Users\USER\Documents\Projects\ELearningWebsiteUsingDotNetCoreMVC\ELearningWebAppUsingMVCArchitecture
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Admin/Desktop/Sahil Shaikh/ELearningWebsiteUsingDotNetCoreMVC/ELearningWebAppUsingMVCArchitecture/Views/Admin/Index.cshtml]
+[C:/Users/USER/Documents/Projects/ELearningWebsiteUsingDotNetCoreMVC/ELearningWebAppUsingMVCArchitecture/Views/Admin/CategoriesSub.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQ2F0ZWdvcmllc1N1Yi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/Documents/Projects/ELearningWebsiteUsingDotNetCoreMVC/ELearningWebAppUsingMVCArchitecture/Views/Admin/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/Desktop/Sahil Shaikh/ELearningWebsiteUsingDotNetCoreMVC/ELearningWebAppUsingMVCArchitecture/Views/Admin/Welcome.cshtml]
+[C:/Users/USER/Documents/Projects/ELearningWebsiteUsingDotNetCoreMVC/ELearningWebAppUsingMVCArchitecture/Views/Admin/SubCategory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cU3ViQ2F0ZWdvcnkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/Documents/Projects/ELearningWebsiteUsingDotNetCoreMVC/ELearningWebAppUsingMVCArchitecture/Views/Admin/Welcome.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cV2VsY29tZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/Desktop/Sahil Shaikh/ELearningWebsiteUsingDotNetCoreMVC/ELearningWebAppUsingMVCArchitecture/Views/Auth/SignIn.cshtml]
+[C:/Users/USER/Documents/Projects/ELearningWebsiteUsingDotNetCoreMVC/ELearningWebAppUsingMVCArchitecture/Views/Auth/SignIn.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxTaWduSW4uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/Desktop/Sahil Shaikh/ELearningWebsiteUsingDotNetCoreMVC/ELearningWebAppUsingMVCArchitecture/Views/Auth/SignUp.cshtml]
+[C:/Users/USER/Documents/Projects/ELearningWebsiteUsingDotNetCoreMVC/ELearningWebAppUsingMVCArchitecture/Views/Auth/SignUp.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxTaWduVXAuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/Desktop/Sahil Shaikh/ELearningWebsiteUsingDotNetCoreMVC/ELearningWebAppUsingMVCArchitecture/Views/Home/Index.cshtml]
+[C:/Users/USER/Documents/Projects/ELearningWebsiteUsingDotNetCoreMVC/ELearningWebAppUsingMVCArchitecture/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/Desktop/Sahil Shaikh/ELearningWebsiteUsingDotNetCoreMVC/ELearningWebAppUsingMVCArchitecture/Views/Home/Privacy.cshtml]
+[C:/Users/USER/Documents/Projects/ELearningWebsiteUsingDotNetCoreMVC/ELearningWebAppUsingMVCArchitecture/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/Desktop/Sahil Shaikh/ELearningWebsiteUsingDotNetCoreMVC/ELearningWebAppUsingMVCArchitecture/Views/Index/About.cshtml]
+[C:/Users/USER/Documents/Projects/ELearningWebsiteUsingDotNetCoreMVC/ELearningWebAppUsingMVCArchitecture/Views/Index/About.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5kZXhcQWJvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/Desktop/Sahil Shaikh/ELearningWebsiteUsingDotNetCoreMVC/ELearningWebAppUsingMVCArchitecture/Views/Index/Blog.cshtml]
+[C:/Users/USER/Documents/Projects/ELearningWebsiteUsingDotNetCoreMVC/ELearningWebAppUsingMVCArchitecture/Views/Index/Blog.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5kZXhcQmxvZy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/Desktop/Sahil Shaikh/ELearningWebsiteUsingDotNetCoreMVC/ELearningWebAppUsingMVCArchitecture/Views/Index/Courses.cshtml]
+[C:/Users/USER/Documents/Projects/ELearningWebsiteUsingDotNetCoreMVC/ELearningWebAppUsingMVCArchitecture/Views/Index/Courses.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5kZXhcQ291cnNlcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/Desktop/Sahil Shaikh/ELearningWebsiteUsingDotNetCoreMVC/ELearningWebAppUsingMVCArchitecture/Views/Index/Index.cshtml]
+[C:/Users/USER/Documents/Projects/ELearningWebsiteUsingDotNetCoreMVC/ELearningWebAppUsingMVCArchitecture/Views/Index/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5kZXhcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/Desktop/Sahil Shaikh/ELearningWebsiteUsingDotNetCoreMVC/ELearningWebAppUsingMVCArchitecture/Views/Shared/AdminLayout.cshtml]
+[C:/Users/USER/Documents/Projects/ELearningWebsiteUsingDotNetCoreMVC/ELearningWebAppUsingMVCArchitecture/Views/Shared/AdminLayout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEFkbWluTGF5b3V0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/Desktop/Sahil Shaikh/ELearningWebsiteUsingDotNetCoreMVC/ELearningWebAppUsingMVCArchitecture/Views/Shared/Error.cshtml]
+[C:/Users/USER/Documents/Projects/ELearningWebsiteUsingDotNetCoreMVC/ELearningWebAppUsingMVCArchitecture/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/Desktop/Sahil Shaikh/ELearningWebsiteUsingDotNetCoreMVC/ELearningWebAppUsingMVCArchitecture/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/USER/Documents/Projects/ELearningWebsiteUsingDotNetCoreMVC/ELearningWebAppUsingMVCArchitecture/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/Desktop/Sahil Shaikh/ELearningWebsiteUsingDotNetCoreMVC/ELearningWebAppUsingMVCArchitecture/Views/_ViewImports.cshtml]
+[C:/Users/USER/Documents/Projects/ELearningWebsiteUsingDotNetCoreMVC/ELearningWebAppUsingMVCArchitecture/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/Desktop/Sahil Shaikh/ELearningWebsiteUsingDotNetCoreMVC/ELearningWebAppUsingMVCArchitecture/Views/_ViewStart.cshtml]
+[C:/Users/USER/Documents/Projects/ELearningWebsiteUsingDotNetCoreMVC/ELearningWebAppUsingMVCArchitecture/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/Desktop/Sahil Shaikh/ELearningWebsiteUsingDotNetCoreMVC/ELearningWebAppUsingMVCArchitecture/Views/Shared/_Layout.cshtml]
+[C:/Users/USER/Documents/Projects/ELearningWebsiteUsingDotNetCoreMVC/ELearningWebAppUsingMVCArchitecture/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-t9wo2zcxzl

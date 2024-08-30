@@ -1,0 +1,80 @@
+﻿@model Category
+
+<!-- Button trigger modal -->
+
+        <button type="button" class="btn btn-primary" id="AddCategory">
+            Add Category
+        </button>
+  
+        
+   
+
+
+<!-- Modal -->
+<div class="modal fade" id="CategoryModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">Add Category</h5>
+                <button type="button" class="close"  aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <form method="post" id="CategoryForm">
+
+                    <div class="form-group">
+                        <label for="exampleInputPassword1">Category</label>
+                        <input type="text" class="form-control" asp-for="CategoryName" name="CategoryName" placeholder="Enter Categories">
+                    </div>
+                    <br />
+
+                    <button type="submit" id="SaveCategoryButton" class="btn btn-primary">Submit</button>
+                </form>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" id="CloseCategory" >Close</button>
+                <button type="button" class="btn btn-primary" id="AddSubCategoryClose">Add Sub-category</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<script src="~/lib/jquery/dist/jquery.js"></script>
+<script src="~/ajax/js/javascript.js"></script>
+
+
+
+
+
+
+
+
+
+
+
+@* <div class="d-flex">
+    <div>
+        <form>
+            
+            <div class="form-group">
+                <label for="exampleInputPassword1">Category</label>
+                <input type="text" class="form-control"  placeholder="Enter Categories">
+            </div>
+            
+            <button type="submit" class="btn btn-primary">Submit</button>
+        </form>
+    </div>
+</div> *@
+
+

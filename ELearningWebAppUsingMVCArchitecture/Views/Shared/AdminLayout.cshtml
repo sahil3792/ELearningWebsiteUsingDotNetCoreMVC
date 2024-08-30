@@ -29,16 +29,41 @@
                     <ul id="sidebarnav">
                         <li class="nav-small-cap">
                             <i class="ti ti-dots nav-small-cap-icon fs-6"></i>
-                            <span class="hide-menu">Home</span>
+                            <span class="hide-menu">Add</span>
+                        </li>
+                        <li class="sidebar-item">
+                            <a class="sidebar-link" asp-controller="Admin" asp-action="CategoriesSub" aria-expanded="false">
+                                <span>
+                                    <iconify-icon icon="solar:home-smile-bold-duotone" class="fs-6"></iconify-icon>
+                                </span>
+                                <span class="hide-menu">Category</span>
+                            </a>
+                        </li>
+                        <li class="sidebar-item">
+                            <a class="sidebar-link" asp-controller="Admin" asp-action="SubCategory" aria-expanded="false">
+                                <span>
+                                    <iconify-icon icon="solar:home-smile-bold-duotone" class="fs-6"></iconify-icon>
+                                </span>
+                                <span class="hide-menu">Sub-Category</span>
+                            </a>
                         </li>
                         <li class="sidebar-item">
                             <a class="sidebar-link" href="./index.html" aria-expanded="false">
                                 <span>
                                     <iconify-icon icon="solar:home-smile-bold-duotone" class="fs-6"></iconify-icon>
                                 </span>
-                                <span class="hide-menu">Dashboard</span>
+                                <span class="hide-menu">Course</span>
                             </a>
                         </li>
+                        <li class="sidebar-item">
+                            <a class="sidebar-link" href="./index.html" aria-expanded="false">
+                                <span>
+                                    <iconify-icon icon="solar:home-smile-bold-duotone" class="fs-6"></iconify-icon>
+                                </span>
+                                <span class="hide-menu">Video</span>
+                            </a>
+                        </li>
+                        
                         <li class="nav-small-cap">
                             <i class="ti ti-dots nav-small-cap-icon fs-6"></i>
                             <span class="hide-menu">UI COMPONENTS</span>
@@ -195,9 +220,18 @@
             </header>
         </div>
     <div class="container-fluid overflow-hidden">
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            
+            
+           
         @RenderBody()
     </div>
     </div>
+    </body>
 
     <script src="/Admin/assets/libs/jquery/dist/jquery.min.js"></script>
     <script src="/Admin/assets/libs/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
