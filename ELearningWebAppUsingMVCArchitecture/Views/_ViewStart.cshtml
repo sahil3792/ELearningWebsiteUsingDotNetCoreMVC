@@ -1,3 +1,11 @@
-﻿@{
-    Layout = "_Layout";
+﻿@inject IHttpContextAccessor HttpContextAccessor
+@{
+   if (HttpContextAccessor.HttpContext.Session.GetString("Admin")!=null)
+    {
+        Layout = "AdminLayout";
+    }
+    else
+    {
+        Layout = "_Layout";
+    }
 }

@@ -11,7 +11,7 @@ namespace ELearningWebAppUsingMVCArchitecture.Controllers
         {
             this.repo = repo;
         }
-        public IActionResult Index()
+        public IActionResult Welcome()
         {
             return View();
         }

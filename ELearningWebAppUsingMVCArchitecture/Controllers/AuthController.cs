@@ -46,7 +46,7 @@ namespace ELearningWebAppUsingMVCArchitecture.Controllers
                 HttpContext.SignInAsync(
                     CookieAuthenticationDefaults.AuthenticationScheme, principal);
                 HttpContext.Session.SetString("Admin", u.Username);
-                return RedirectToAction("Admin", "Index");
+                return RedirectToAction("Welcome", "Admin");
                 
             }
 			else if (data == 2)
