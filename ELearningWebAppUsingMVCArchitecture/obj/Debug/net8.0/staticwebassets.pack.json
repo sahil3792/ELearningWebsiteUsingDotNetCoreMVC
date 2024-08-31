@@ -2569,6 +2569,26 @@
       "PackagePath": "staticwebassets\\Ajax\\js\\JavaScript.js"
     },
     {
+      "Id": "C:\\Users\\USER\\Documents\\Projects\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\Content\\Images\\7317-MY20TTRoadster.jpg",
+      "PackagePath": "staticwebassets\\Content\\Images\\7317-MY20TTRoadster.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Documents\\Projects\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\Content\\Images\\Wc8C.gif",
+      "PackagePath": "staticwebassets\\Content\\Images\\Wc8C.gif"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Documents\\Projects\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\Content\\Images\\Wedding_ceremony_invitation_with_faces.png",
+      "PackagePath": "staticwebassets\\Content\\Images\\Wedding_ceremony_invitation_with_faces.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Documents\\Projects\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\Content\\Images\\image.jpg",
+      "PackagePath": "staticwebassets\\Content\\Images\\image.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Documents\\Projects\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\Content\\Images\\java.jpg",
+      "PackagePath": "staticwebassets\\Content\\Images\\java.jpg"
+    },
+    {
       "Id": "C:\\Users\\USER\\Documents\\Projects\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\LoginSignUp\\script.js",
       "PackagePath": "staticwebassets\\LoginSignUp\\script.js"
     },

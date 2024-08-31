@@ -12,7 +12,10 @@ namespace ELearningWebAppUsingMVCArchitecture.Repo
 
         List<SubCategory> DisplaySubCategory(int id);
 
+        List<Course> BindCourse(int id);
+
         void AddCourse(CourseViewModel cm);
+        
         public void UploadFile(IFormFile file, string fullPath);
     }
 }

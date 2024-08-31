@@ -18,6 +18,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\USER\Documents\Projects\ELearningWebsiteUsingDotNetCoreMVC\ELearningWebAppUsingMVCArchitecture
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/USER/Documents/Projects/ELearningWebsiteUsingDotNetCoreMVC/ELearningWebAppUsingMVCArchitecture/Views/Admin/AddVideo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRkVmlkZW8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/USER/Documents/Projects/ELearningWebsiteUsingDotNetCoreMVC/ELearningWebAppUsingMVCArchitecture/Views/Admin/CategoriesSub.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQ2F0ZWdvcmllc1N1Yi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

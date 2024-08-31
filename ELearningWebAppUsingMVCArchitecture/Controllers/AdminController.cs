@@ -1,6 +1,7 @@
 ﻿using ELearningWebAppUsingMVCArchitecture.Models;
 using ELearningWebAppUsingMVCArchitecture.Repo;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.Identity.Client;
 
 namespace ELearningWebAppUsingMVCArchitecture.Controllers
 {
@@ -72,12 +73,25 @@ namespace ELearningWebAppUsingMVCArchitecture.Controllers
             return Json(data);
         }
 
+        public IActionResult BindCourse(int id)
+        {
+            var data = repo.BindCourse(id);
+            return Json(data); 
+        }
+    
+
         [HttpPost]
         public IActionResult Course(CourseViewModel cm)
         {
             repo.AddCourse(cm);
             return View();
         }
+
+        public IActionResult AddVideo()
+        {
+           return View();
+        }  
+
         
 
 

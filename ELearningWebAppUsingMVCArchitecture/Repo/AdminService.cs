@@ -35,6 +35,12 @@ namespace ELearningWebAppUsingMVCArchitecture.Repo
             return data;
         }
 
+        public List<Course> BindCourse(int id)
+        {
+            var data = db.Courses.FromSqlRaw($"exec fetchCourse '{id}'").ToList();
+            return data;
+        }
+
         public void AddCourse(CourseViewModel cm)
         {
             var path = env.WebRootPath;

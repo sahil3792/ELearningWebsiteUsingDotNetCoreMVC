@@ -109,7 +109,7 @@ function GetCategoryforCourse() {
 function GetSubCategoryData() {
     
     var selectedCategoryId = $("#DisplayCategory").val();
-    alert("called" + selectedCategoryId);
+    
 
     $.ajax({
         url: '/Admin/BindSubCategory?id=' + selectedCategoryId,
@@ -121,6 +121,29 @@ function GetSubCategoryData() {
                 options += "<option value='" + item.subCategoryId + "' asp-for='CategoryId' name='CategoryId'>" + item.subCategoryName + "</option>";
             });
             $("#DisplaySubCategory").html(options);
+        },
+        error: function (xhr, status, error) {
+            console.error("Error fetching data: ", error);  // Log error details
+            alert("Failed to load categories: " + xhr.status + " - " + error);  // Provide more detailed info
+        }
+    });
+
+}
+function GetCourseData() {
+
+    var selectSubcategoryid = $("#DisplaySubCategory").val();
+    alert("called" + selectSubcategoryid);
+
+    $.ajax({
+        url: '/Admin/BindCourse?id=' + selectSubcategoryid,
+        type: 'GET',
+        dataType: 'json',
+        success: function (result, status, xhr) {
+            var options = '<option value="">Select Category</option>';
+            $.each(result, function (index, item) {
+                options += "<option value='" + item.courseId + "' asp-for='CategoryId' name='CategoryId'>" + item.courseName + "</option>";
+            });
+            $("#DisplayCourseDropdown").html(options);
         },
         error: function (xhr, status, error) {
             console.error("Error fetching data: ", error);  // Log error details
