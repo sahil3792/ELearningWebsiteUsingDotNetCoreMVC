@@ -1,30 +1,33 @@
-﻿<form>
+﻿@model Video
+
+<form id="VideoForm">
     <div class="form-group">
         <label>Select Category:</label>
-        <select class="form-control" id="DisplayCategory" onchange="GetSubCategoryData()" >
+        <select class="form-control" id="DisplayCategory" name="CategoryId" onchange="GetSubCategoryData()" >
         </select>
     </div>
     <div class="form-group">
         <label>Select Sub-Category:</label>
-        <select class="form-control" id="DisplaySubCategory" onchange="GetCourseData()">
+        <select class="form-control" id="DisplaySubCategory" name="SubCategoryId" onchange="GetCourseData()">
         </select>
     </div>
     <div class="form-group">
-        <label for="exampleFormControlSelect1">Example select</label>
-        <select class="form-control" id="DisplayCourseDropdown">
+        <label for="exampleFormControlSelect1">Select Course </label>
+        <select class="form-control" name="CourseId" id="DisplayCourseDropdown">
 
         </select>
     </div>
     <div class="form-group">
-        <label for="exampleFormControlInput1">Email address</label>
-        <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="name@example.com">
+        <label for="exampleFormControlInput1">Enter Video Title</label>
+        <input type="text" name="VideoTitle" class="form-control">
     </div>
     
     
     <div class="form-group">
-        <label for="exampleFormControlTextarea1">Example textarea</label>
-        <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+        <label for="exampleFormControlTextarea1">Enter Video Link </label>
+        <input type="text" name="VideoLink" class="form-control">
     </div>
+    <button type="submit" class="btn btn-primary" id="SaveVideobtn">Submit</button>
 </form>
 
 

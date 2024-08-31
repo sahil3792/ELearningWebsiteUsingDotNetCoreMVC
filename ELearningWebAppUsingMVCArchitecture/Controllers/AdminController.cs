@@ -90,9 +90,16 @@ namespace ELearningWebAppUsingMVCArchitecture.Controllers
         public IActionResult AddVideo()
         {
            return View();
-        }  
+        }
 
-        
+        [HttpPost]
+        public IActionResult StoreVideo(Video v)
+        {
+            repo.AddVideo(v);
+            return Json("");
+        }
+
+
 
 
 

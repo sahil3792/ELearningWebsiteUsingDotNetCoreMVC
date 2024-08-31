@@ -17,5 +17,7 @@ namespace ELearningWebAppUsingMVCArchitecture.Repo
         void AddCourse(CourseViewModel cm);
         
         public void UploadFile(IFormFile file, string fullPath);
+
+        void AddVideo(Video v);
     }
 }

@@ -16,5 +16,7 @@ namespace ELearningWebAppUsingMVCArchitecture.Data
 		public DbSet<SubCategory> SubCategories { get; set; }
 
 		public DbSet<Course> Courses { get; set; }
+
+		public DbSet<Video> Videos { get; set; }
 	}
 }

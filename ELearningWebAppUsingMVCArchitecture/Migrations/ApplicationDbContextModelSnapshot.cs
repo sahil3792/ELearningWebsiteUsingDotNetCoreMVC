@@ -127,6 +127,30 @@ namespace ELearningWebAppUsingMVCArchitecture.Migrations
 
                     b.ToTable("Users");
                 });
+
+            modelBuilder.Entity("ELearningWebAppUsingMVCArchitecture.Models.Video", b =>
+                {
+                    b.Property<int>("VideoId")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("VideoId"));
+
+                    b.Property<int>("CourseId")
+                        .HasColumnType("int");
+
+                    b.Property<string>("VideoLink")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("VideoTitle")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("VideoId");
+
+                    b.ToTable("Videos");
+                });
 #pragma warning restore 612, 618
         }
     }

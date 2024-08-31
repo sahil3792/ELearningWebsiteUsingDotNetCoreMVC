@@ -2581,6 +2581,38 @@
       "PackagePath": "staticwebassets\\Content\\Images\\Wedding_ceremony_invitation_with_faces.png"
     },
     {
+      "Id": "C:\\Users\\USER\\Documents\\Projects\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\Content\\Images\\course_1.jpg",
+      "PackagePath": "staticwebassets\\Content\\Images\\course_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Documents\\Projects\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\Content\\Images\\course_2.jpg",
+      "PackagePath": "staticwebassets\\Content\\Images\\course_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Documents\\Projects\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\Content\\Images\\course_3.jpg",
+      "PackagePath": "staticwebassets\\Content\\Images\\course_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Documents\\Projects\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\Content\\Images\\course_4.jpg",
+      "PackagePath": "staticwebassets\\Content\\Images\\course_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Documents\\Projects\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\Content\\Images\\course_5.jpg",
+      "PackagePath": "staticwebassets\\Content\\Images\\course_5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Documents\\Projects\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\Content\\Images\\course_6.jpg",
+      "PackagePath": "staticwebassets\\Content\\Images\\course_6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Documents\\Projects\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\Content\\Images\\course_7.jpg",
+      "PackagePath": "staticwebassets\\Content\\Images\\course_7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Documents\\Projects\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\Content\\Images\\course_8.jpg",
+      "PackagePath": "staticwebassets\\Content\\Images\\course_8.jpg"
+    },
+    {
       "Id": "C:\\Users\\USER\\Documents\\Projects\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\Content\\Images\\image.jpg",
       "PackagePath": "staticwebassets\\Content\\Images\\image.jpg"
     },

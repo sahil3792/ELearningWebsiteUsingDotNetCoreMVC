@@ -13,6 +13,9 @@ builder.Services.AddDbContext<ApplicationDbContext>(options => options.UseSqlSer
 
 builder.Services.AddScoped<AuthRepo, AuthService>();
 builder.Services.AddScoped<AdminRepo, AdminService>();
+builder.Services.AddScoped<UserRepo,UserService>();
+
+
 builder.Services.AddHttpContextAccessor();
 builder.Services.AddSession(options => {
     options.IdleTimeout = TimeSpan.FromMinutes(5);

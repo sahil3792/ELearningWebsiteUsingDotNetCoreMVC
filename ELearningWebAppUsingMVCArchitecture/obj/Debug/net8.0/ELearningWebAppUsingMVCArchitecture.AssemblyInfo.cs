@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ELearningWebAppUsingMVCArchitecture")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2edc6329e3c2c36a64b15d8720967d5fa4946fdc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+10d7bfc263905e39ce9a56e7c6ea4d2bebc7f664")]
 [assembly: System.Reflection.AssemblyProductAttribute("ELearningWebAppUsingMVCArchitecture")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ELearningWebAppUsingMVCArchitecture")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

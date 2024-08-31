@@ -1,4 +1,5 @@
-﻿$(document).ready(function () {
+﻿
+$(document).ready(function () {
     GetCategory();
     GetCategoryforCourse();
 });
@@ -152,3 +153,23 @@ function GetCourseData() {
     });
 
 }
+
+
+$('#SaveVideobtn').click(function () {
+    var obj = $('#VideoForm').serialize();
+   
+    $.ajax({
+        url: '/Admin/StoreVideo',
+        type: 'Post',
+        dataType: 'json',
+        contentType: 'application/x-www-form-urlencoded;charset=utf8',
+        data: obj,
+        success: function () {
+            alert("Emp Added Successfully");
+
+        },
+        error: function () {
+            alert("Something went Wrong");
+        }
+    });
+})

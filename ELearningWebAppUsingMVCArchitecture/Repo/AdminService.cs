@@ -67,5 +67,10 @@ namespace ELearningWebAppUsingMVCArchitecture.Repo
             FileStream stream = new FileStream(fullPath, FileMode.Create);
             file.CopyTo(stream);
         }
+
+        public void AddVideo(Video v)
+        {
+            db.Database.ExecuteSqlRaw($"exec AddVideo '{v.CourseId}','{v.VideoTitle}','{v.VideoLink}'");
+        }
     }
 }

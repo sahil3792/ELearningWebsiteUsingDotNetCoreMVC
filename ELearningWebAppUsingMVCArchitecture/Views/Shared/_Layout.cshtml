@@ -47,10 +47,13 @@
 												<div>info.deercreative@gmail.com</div>
 											</li>
 										</ul>
-
+									@if(HttpContextAccessor.HttpContext.Session.GetString("Admin")==null || HttpContextAccessor.HttpContext.Session.GetString("User")==null)
+									{
 										<div class="top_bar_login ml-auto">
 											<div class="login_button"><a asp-controller="Auth" asp-action="SignUp">Register or Login</a></div>
 										</div>
+									}
+									
 
 
 									</div>

@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using ELearningWebAppUsingMVCArchitecture.Repo;
+using Microsoft.AspNetCore.Mvc;
 
 namespace ELearningWebAppUsingMVCArchitecture.Controllers
 {
@@ -6,6 +7,10 @@ namespace ELearningWebAppUsingMVCArchitecture.Controllers
 
 	public class IndexController : Controller
 	{
+		private readonly UserRepo repo;
+		public IndexController(UserRepo repo) {
+			this.repo = repo;
+		}
 		public IActionResult Index()
 		{
 			return View();
@@ -17,7 +22,8 @@ namespace ELearningWebAppUsingMVCArchitecture.Controllers
 		}
 		public IActionResult Courses()
 		{
-			return View();
+			var data = repo.FetchCourse();
+			return View(data);
 		}
 		public IActionResult Blog()
 		{
