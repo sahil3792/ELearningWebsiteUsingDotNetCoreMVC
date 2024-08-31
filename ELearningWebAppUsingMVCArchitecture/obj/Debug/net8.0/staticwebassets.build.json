@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "I/fneoWlebadXg9Eb/09gxNLKuTsEw9uS6v6h/fdqAI=",
+  "Hash": "wlUwMoa3j0lw//HPg3ogrbYHKcE7S6VRKjFf4imJ0Ic=",
   "Source": "ELearningWebAppUsingMVCArchitecture",
   "BasePath": "_content/ELearningWebAppUsingMVCArchitecture",
   "Mode": "Default",
@@ -12194,6 +12194,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Admin\\assets\\scss\\variables\\_variables.scss"
+    },
+    {
+      "Identity": "C:\\Users\\USER\\Documents\\Projects\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\Ajax\\js\\Doc.js",
+      "SourceId": "ELearningWebAppUsingMVCArchitecture",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Documents\\Projects\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\",
+      "BasePath": "_content/ELearningWebAppUsingMVCArchitecture",
+      "RelativePath": "Ajax/js/Doc.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Ajax\\js\\Doc.js"
     },
     {
       "Identity": "C:\\Users\\USER\\Documents\\Projects\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\Ajax\\js\\JavaScript.js",

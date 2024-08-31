@@ -1,15 +1,16 @@
 ﻿$(document).ready(function () {
     GetCategory();
+    GetCategoryforCourse();
 });
 
 $('#AddCategory').click(function () {
     $('#CategoryModal').modal('show');
-    
+
 
 });
 $('#AddSubCategory').click(function () {
     $('#SubCategoryModal').modal('show');
-    
+
 
 
 });
@@ -47,20 +48,84 @@ $('#SaveCategoryButton').click(function () {
 
 function GetCategory() {
     $.ajax({
-        url: '/Admin/GetCategory',
-        type: 'Get',
+        url: '/Admin/GetCategory',  // Adjust the URL to the new action
+        type: 'GET',
         dataType: 'json',
-        contentType: 'application/json;charset=utf8;',
-        success: function (result) {
-            var options = '<option value="">Select Category</option>';  // Default option
+        success: function (result, status, xhr) {
+            var options = '<option value="">Select Category</option>';
             $.each(result, function (index, item) {
-                options += "<option value='" + item.categoryId + "'>" + item.categoryname + "</option>";
+                options += "<option value='" + item.categoryId + "' asp-for='CategoryId' name='CategoryId'>" + item.categoryName + "</option>";
             });
-            $("#DropdownData").html(options);  // Populate the dropdown with options
+            $("#DropdownData").html(options);
         },
         error: function (xhr, status, error) {
             console.error("Error fetching data: ", error);  // Log error details
-            alert("Data not found: " + error);  // Provide more info in the alert
+            alert("Failed to load categories: " + xhr.status + " - " + error);  // Provide more detailed info
         }
-    })
+    });
+}
+
+
+$('#SaveSubCategoryButton').click(function () {
+    var obj = $('#SubCategoryForm').serialize();
+    $.ajax({
+        url: 'Admin/AddSubCategory',
+        type: 'Post',
+        dataType: 'json',
+        contentType: 'application/x-www-form-urlencoded;charset=utf8',
+        data: obj,
+        success: function () {
+            alert("Category Added Successfully");
+            clear();
+        },
+        error: function () {
+            alert("Something went Wrong");
+        }
+    });
+
+})
+
+
+function GetCategoryforCourse() {
+    $.ajax({
+        url: '/Admin/GetCategory',  // Adjust the URL to the new action
+        type: 'GET',
+        dataType: 'json',
+        success: function (result, status, xhr) {
+            var options = '<option value="">Select Category</option>';
+            $.each(result, function (index, item) {
+                options += "<option value='" + item.categoryId + "' asp-for='CategoryId' name='CategoryId'>" + item.categoryName + "</option>";
+            });
+            $("#DisplayCategory").html(options);
+        },
+        error: function (xhr, status, error) {
+            console.error("Error fetching data: ", error);  // Log error details
+            alert("Failed to load categories: " + xhr.status + " - " + error);  // Provide more detailed info
+        }
+    });
+}
+
+
+function GetSubCategoryData() {
+    
+    var selectedCategoryId = $("#DisplayCategory").val();
+    alert("called" + selectedCategoryId);
+
+    $.ajax({
+        url: '/Admin/BindSubCategory?id=' + selectedCategoryId,
+        type: 'GET',
+        dataType: 'json',
+        success: function (result, status, xhr) {
+            var options = '<option value="">Select Category</option>';
+            $.each(result, function (index, item) {
+                options += "<option value='" + item.subCategoryId + "' asp-for='CategoryId' name='CategoryId'>" + item.subCategoryName + "</option>";
+            });
+            $("#DisplaySubCategory").html(options);
+        },
+        error: function (xhr, status, error) {
+            console.error("Error fetching data: ", error);  // Log error details
+            alert("Failed to load categories: " + xhr.status + " - " + error);  // Provide more detailed info
+        }
+    });
+
 }

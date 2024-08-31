@@ -2561,6 +2561,10 @@
       "PackagePath": "staticwebassets\\Admin\\assets\\scss\\variables\\_variables.scss"
     },
     {
+      "Id": "C:\\Users\\USER\\Documents\\Projects\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\Ajax\\js\\Doc.js",
+      "PackagePath": "staticwebassets\\Ajax\\js\\Doc.js"
+    },
+    {
       "Id": "C:\\Users\\USER\\Documents\\Projects\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\Ajax\\js\\JavaScript.js",
       "PackagePath": "staticwebassets\\Ajax\\js\\JavaScript.js"
     },

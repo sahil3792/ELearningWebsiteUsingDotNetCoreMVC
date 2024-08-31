@@ -22,12 +22,16 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQ2F0ZWdvcmllc1N1Yi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/USER/Documents/Projects/ELearningWebsiteUsingDotNetCoreMVC/ELearningWebAppUsingMVCArchitecture/Views/Admin/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSW5kZXguY3NodG1s
+[C:/Users/USER/Documents/Projects/ELearningWebsiteUsingDotNetCoreMVC/ELearningWebAppUsingMVCArchitecture/Views/Admin/Course.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQ291cnNlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/USER/Documents/Projects/ELearningWebsiteUsingDotNetCoreMVC/ELearningWebAppUsingMVCArchitecture/Views/Admin/SubCategory.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cU3ViQ2F0ZWdvcnkuY3NodG1s
+[C:/Users/USER/Documents/Projects/ELearningWebsiteUsingDotNetCoreMVC/ELearningWebAppUsingMVCArchitecture/Views/Admin/DisplayAndGetSubCategory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRGlzcGxheUFuZEdldFN1YkNhdGVnb3J5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/Documents/Projects/ELearningWebsiteUsingDotNetCoreMVC/ELearningWebAppUsingMVCArchitecture/Views/Admin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/USER/Documents/Projects/ELearningWebsiteUsingDotNetCoreMVC/ELearningWebAppUsingMVCArchitecture/Views/Admin/Welcome.cshtml]

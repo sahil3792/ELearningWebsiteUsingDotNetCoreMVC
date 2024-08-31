@@ -32,10 +32,58 @@ namespace ELearningWebAppUsingMVCArchitecture.Controllers
             
             return View();
         }
+
+        public IActionResult DisplayAndGetSubCategory()
+        {
+
+            return View();
+
+        }
+
         public IActionResult GetCategory(Category cat)
         {
             var data = repo.GetCategory(cat);
             return Json(data);
+            //var viewModel = new CombinedCategoryAndSubCategory
+            //{
+            //    Categories = data,
+            //    SubCategory = new SubCategory()
+            //};
+            //return View(viewModel);
         }
+
+        [HttpPost]
+        public IActionResult DisplayAndGetSubCategory(SubCategory scat)
+        {
+            repo.AddSubCategory(scat);
+            return View();
+
+        }
+
+
+        public IActionResult Course()
+        {
+            return View();
+        }
+
+        public IActionResult BindSubCategory(int id)
+        {
+            var data = repo.DisplaySubCategory(id);
+            return Json(data);
+        }
+
+        [HttpPost]
+        public IActionResult Course(CourseViewModel cm)
+        {
+            repo.AddCourse(cm);
+            return View();
+        }
+        
+
+
+
+
+
+
     }
 }
