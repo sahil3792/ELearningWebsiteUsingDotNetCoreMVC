@@ -15,6 +15,7 @@ namespace ELearningWebAppUsingMVCArchitecture.Models
         public int StudentCount { get; set; }   
         public int CategoryId { get; set; } 
         public int SubCategoryId { get; set; }  
+        public int ReviewId {  get; set; }
 
 
     }

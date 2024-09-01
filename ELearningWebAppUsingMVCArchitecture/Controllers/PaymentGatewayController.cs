@@ -43,6 +43,7 @@ namespace ELearningWebAppUsingMVCArchitecture.Controllers
                 var order = client.Order.Create(options);
 
                 // Pass order details to the view
+                ViewBag.CourseId = courseId;
                 ViewBag.OrderId = order["id"].ToString();
                 ViewBag.CourseName = course.CourseName;
                 ViewBag.Amount = course.CoursePrice;
@@ -58,18 +59,20 @@ namespace ELearningWebAppUsingMVCArchitecture.Controllers
             }
         }
         [HttpGet]
-        public IActionResult PaymentSuccess(string paymentId, string orderId, string signature)
+        public IActionResult PaymentSuccess(string paymentId, string orderId, string signature, string courseid)
         {
-            // Verify the payment signature here if needed
+            var username = HttpContext.Session.GetString("User");
+            var course = repo.DisplaySingleCourse(int.Parse(courseid)).FirstOrDefault();
+            repo.AddOrder(orderId, int.Parse(courseid), course.CoursePrice, username);
 
-            // Handle the success logic, e.g., update the order status in the database
-            // You might want to pass these details to a view or perform additional operations
+            
 
-            ViewBag.PaymentId = paymentId;
-            ViewBag.OrderId = orderId;
-            ViewBag.Signature = signature;
 
-            return View(); // Create a PaymentSuccess.cshtml view to show a success message
+
+
+            
+
+            return RedirectToAction("Courses","Index"); // Create a PaymentSuccess.cshtml view to show a success message
         }
     }
     

@@ -19,7 +19,7 @@
             "order_id": "@ViewBag.OrderId", // Pass the order ID
             "handler": function (response) {
                 // After successful payment, handle the response here
-                window.location.href = '/PaymentGateway/PaymentSuccess?paymentId=' + response.razorpay_payment_id + '&orderId=' + response.razorpay_order_id + '&signature=' + response.razorpay_signature;
+                window.location.href = '/PaymentGateway/PaymentSuccess?paymentId=' + response.razorpay_payment_id + '&orderId=' + response.razorpay_order_id + '&signature=' + response.razorpay_signature + '&courseid=' +@ViewBag.CourseId;
             },
             "prefill": {
                 "name": "Your Name", // Optional: Prefill customer's name
