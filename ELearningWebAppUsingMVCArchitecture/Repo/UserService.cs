@@ -25,5 +25,17 @@ namespace ELearningWebAppUsingMVCArchitecture.Repo
 			IQueryable<Course> data = db.Courses.FromSqlRaw($"exec DisplaySingleCourse '{id}'") ;
 			return data;
 		}
-	}
+		public List<Course> FetchMyCourses(string username)
+		{
+			var data = db.Courses.FromSqlRaw($"exec FetchMyCourses '{username}'").ToList();
+			return data;
+		}
+
+        public List<Video> GetVideosByCourseId(int courseid)
+		{
+			var data = db.Videos.FromSqlRaw($"exec GetVideoByCourseId '{courseid}'").ToList();
+			return data;
+		}
+
+    }
 }

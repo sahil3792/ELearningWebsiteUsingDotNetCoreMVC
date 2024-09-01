@@ -2629,6 +2629,10 @@
       "PackagePath": "staticwebassets\\LoginSignUp\\style.css"
     },
     {
+      "Id": "C:\\Users\\USER\\Documents\\Projects\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\ViewMyCourse\\ViewMyCourse.css",
+      "PackagePath": "staticwebassets\\ViewMyCourse\\ViewMyCourse.css"
+    },
+    {
       "Id": "C:\\Users\\USER\\Documents\\Projects\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },

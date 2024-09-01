@@ -64,6 +64,7 @@ namespace ELearningWebAppUsingMVCArchitecture.Controllers
             var username = HttpContext.Session.GetString("User");
             var course = repo.DisplaySingleCourse(int.Parse(courseid)).FirstOrDefault();
             repo.AddOrder(orderId, int.Parse(courseid), course.CoursePrice, username);
+            TempData["Msg"] = "Successfully added course to My Courses";
 
             
 

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "+MiaWlYYOHuzIDVPeGSL9acvipOHTc2cK7F7Fou6iJQ=",
+  "Hash": "Q7S+dW98ErdaIXiIsFXK1CQZYoOzU5OjU1Xj+P2mhN0=",
   "Source": "ELearningWebAppUsingMVCArchitecture",
   "BasePath": "_content/ELearningWebAppUsingMVCArchitecture",
   "Mode": "Default",
@@ -17077,6 +17077,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\styles\\responsive.css"
+    },
+    {
+      "Identity": "C:\\Users\\USER\\Documents\\Projects\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\ViewMyCourse\\ViewMyCourse.css",
+      "SourceId": "ELearningWebAppUsingMVCArchitecture",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Documents\\Projects\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\",
+      "BasePath": "_content/ELearningWebAppUsingMVCArchitecture",
+      "RelativePath": "ViewMyCourse/ViewMyCourse.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\ViewMyCourse\\ViewMyCourse.css"
     }
   ]
 }

@@ -7,8 +7,13 @@ namespace ELearningWebAppUsingMVCArchitecture.Repo
 		List<Course> FetchCourse();
 
 		public IQueryable<Course> DisplaySingleCourse(int id);
-		
 
-		
-	}
+		List<Course> FetchMyCourses(string username);
+
+		List<Video> GetVideosByCourseId(int courseid);
+
+
+
+
+    }
 }

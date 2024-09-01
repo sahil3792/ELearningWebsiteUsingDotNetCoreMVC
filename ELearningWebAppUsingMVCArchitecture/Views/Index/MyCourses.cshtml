@@ -1,0 +1,67 @@
+﻿@model List<Course>
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
+
+<div class="super_container">
+
+
+
+	<!-- About -->
+
+	<div class="courses">
+		<div class="section_background parallax-window" data-parallax="scroll" data-image-src="images/courses_background.jpg" data-speed="0.8"></div>
+		<div class="container">
+			<div class="row">
+				<div class="col">
+					<div class="section_title_container text-center">
+						<h2 class="section_title">My Courses</h2>
+						<div class="section_subtitle"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vel gravida arcu. Vestibulum feugiat, sapien ultrices fermentum congue, quam velit venenatis sem</p></div>
+					</div>
+				</div>
+			</div>
+			<div class="row courses_row">
+                @foreach(var item in Model)
+                {
+                <div class="col-lg-4 course_col">
+                    <div class="course">
+                        <div class="course_image"><img src='/@item.CourseImage' alt=""></div>
+                        <div class="course_body">
+                            <h3 class="course_title"><a >@item.CourseName</a></h3>
+                            <div class="course_teacher">@item.CourseTeacherName</div>
+                            <div class="course_text">
+                                <p>@item.CourseDescription</p>
+                            </div>
+                        </div>
+                        <div class="course_footer">
+                            <div class="course_footer_content d-flex flex-row align-items-center justify-content-start">
+                                <div class="course_info">
+                                    <i class="fa fa-graduation-cap" aria-hidden="true"></i>
+                                    <span>@item.StudentCount Students</span>
+                                </div>
+                                <div class="course_info">
+                                    <i class="fa fa-star" aria-hidden="true"></i>
+                                    <span>5 Ratings</span>
+                                </div>
+                                    <a asp-controller ="Index" asp-action="ViewMyCourse" asp-route-id="@item.CourseId"><input value="Watch" type="button" class="btn btn-outline-primary" /></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                }
+            </div>
+            <div class="row">
+                <div class="col">
+                    <div class="courses_button trans_200"><a href="#">view all courses</a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+	<br />
+	<br />

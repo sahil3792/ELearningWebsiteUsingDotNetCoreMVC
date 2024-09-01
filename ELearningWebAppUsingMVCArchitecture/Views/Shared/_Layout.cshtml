@@ -16,6 +16,7 @@
 	<link rel="stylesheet" type="text/css" href="/plugins/OwlCarousel2-2.2.1/animate.css">
 	<link rel="stylesheet" type="text/css" href="/styles/main_styles.css">
 	<link rel="stylesheet" type="text/css" href="/styles/responsive.css">
+	<link rel="stylesheet" href="~//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.css">
 
 	
 
@@ -26,7 +27,7 @@
 
 		<!-- Header -->
 		
-		{
+		
 			<header class="header">
 
 				<!-- Top Bar -->
@@ -47,7 +48,7 @@
 												<div>info.deercreative@gmail.com</div>
 											</li>
 										</ul>
-									@if(HttpContextAccessor.HttpContext.Session.GetString("Admin")==null || HttpContextAccessor.HttpContext.Session.GetString("User")==null)
+									@if (!User.Identity.IsAuthenticated)
 									{
 										<div class="top_bar_login ml-auto">
 											<div class="login_button"><a asp-controller="Auth" asp-action="SignUp">Register or Login</a></div>
@@ -88,6 +89,13 @@
 										<!-- Hamburger -->
 
 										<div class="shopping_cart"><i class="fa fa-shopping-cart" aria-hidden="true"></i></div>
+									@if (User.Identity.IsAuthenticated)
+									{
+										<a asp-controller="Index" asp-action="MyCourses"><div class="shopping_cart"><i class="fa fa-book" aria-hidden="true"></i></div></a>
+
+										
+									}
+									
 										<div class="hamburger menu_mm">
 											<i class="fa fa-bars menu_mm" aria-hidden="true"></i>
 										</div>
@@ -117,7 +125,7 @@
 					</div>
 				</div>
 			</header>
-		}
+		
 		
 
 
