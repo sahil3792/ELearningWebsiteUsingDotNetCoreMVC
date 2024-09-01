@@ -1,0 +1,52 @@
+﻿@{
+    ViewData["Title"] = "Payment";
+}
+
+<h2>Complete Your Payment</h2>
+
+<!-- Include Razorpay checkout script -->
+<script src="https://checkout.razorpay.com/v1/checkout.js"></script>
+
+<script>
+    function payNow() {
+        var options = {
+            "key": "@ViewBag.KeyId", // Enter the Key ID generated from the Dashboard
+            "amount": "@(ViewBag.Amount * 100)", // Amount in currency subunits (100 paise = 1 INR)
+            "currency": "@ViewBag.Currency",
+            "name": "@ViewBag.CourseName",
+            "description": "Test Transaction",
+            "image": "/your_logo.png", // Optional: Replace with your logo URL
+            "order_id": "@ViewBag.OrderId", // Pass the order ID
+            "handler": function (response) {
+                // After successful payment, handle the response here
+                window.location.href = '/PaymentGateway/PaymentSuccess?paymentId=' + response.razorpay_payment_id + '&orderId=' + response.razorpay_order_id + '&signature=' + response.razorpay_signature;
+            },
+            "prefill": {
+                "name": "Your Name", // Optional: Prefill customer's name
+                "email": "email@example.com", // Optional: Prefill customer's email
+                "contact": "9999999999" // Optional: Prefill customer's phone number
+            },
+            "theme": {
+                "color": "#3399cc"
+            }
+        };
+        var rzp1 = new Razorpay(options);
+        rzp1.open();
+    }
+
+    // Call the payNow function to initiate the payment when the button is clicked
+    document.addEventListener("DOMContentLoaded", function () {
+        document.getElementById("payButton").addEventListener("click", payNow);
+    });
+</script>
+<br />
+<br />
+<br />
+<br />
+<br />
+<!-- Button to start payment -->
+<button id="payButton" class="btn btn-primary">Buy Now</button>
+
+                <br />
+                <br />
+                <br />

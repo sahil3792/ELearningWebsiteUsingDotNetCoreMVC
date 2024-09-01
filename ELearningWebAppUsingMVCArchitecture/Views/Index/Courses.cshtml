@@ -49,7 +49,7 @@
 									<div class="course">
 										<div class="course_image"><img src="/@item.CourseImage" alt=""></div>
 										<div class="course_body">
-											<h3 class="course_title"><a href="course.html">@item.CourseName</a></h3>
+											<h3 class="course_title"><a asp-controller="Index" asp-action="ViewCourse" asp-route-id="@item.CourseId" >@item.CourseName</a></h3>
 											<div class="course_teacher">@item.CourseTeacherName</div>
 											<div class="course_text">
 												<p>@item.CourseDescription</p>

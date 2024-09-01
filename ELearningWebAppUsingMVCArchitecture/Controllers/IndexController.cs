@@ -1,4 +1,5 @@
-﻿using ELearningWebAppUsingMVCArchitecture.Repo;
+﻿
+using ELearningWebAppUsingMVCArchitecture.Repo;
 using Microsoft.AspNetCore.Mvc;
 
 namespace ELearningWebAppUsingMVCArchitecture.Controllers
@@ -28,6 +29,12 @@ namespace ELearningWebAppUsingMVCArchitecture.Controllers
 		public IActionResult Blog()
 		{
 			return View();
+		}
+
+		public IActionResult ViewCourse(int id)
+		{
+			var data = repo.DisplaySingleCourse(id);
+			return View(data);
 		}
 	}
 }

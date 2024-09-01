@@ -14,7 +14,7 @@ build_property.EnableComHosting =
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
-build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
 build_property.MSBuildProjectDirectory = C:\Users\USER\Documents\Projects\ELearningWebsiteUsingDotNetCoreMVC\ELearningWebAppUsingMVCArchitecture
 build_property._RazorSourceGeneratorDebug = 
 
@@ -72,6 +72,18 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/USER/Documents/Projects/ELearningWebsiteUsingDotNetCoreMVC/ELearningWebAppUsingMVCArchitecture/Views/Index/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5kZXhcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/Documents/Projects/ELearningWebsiteUsingDotNetCoreMVC/ELearningWebAppUsingMVCArchitecture/Views/Index/ViewCourse.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5kZXhcVmlld0NvdXJzZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/Documents/Projects/ELearningWebsiteUsingDotNetCoreMVC/ELearningWebAppUsingMVCArchitecture/Views/PaymentGateway/Order.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF5bWVudEdhdGV3YXlcT3JkZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/Documents/Projects/ELearningWebsiteUsingDotNetCoreMVC/ELearningWebAppUsingMVCArchitecture/Views/PaymentGateway/PaymentSuccess.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF5bWVudEdhdGV3YXlcUGF5bWVudFN1Y2Nlc3MuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/USER/Documents/Projects/ELearningWebsiteUsingDotNetCoreMVC/ELearningWebAppUsingMVCArchitecture/Views/Shared/AdminLayout.cshtml]

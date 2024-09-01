@@ -954,10 +954,10 @@ section
 .feature
 {
 	width: 100%;
-	padding-top: 30px;
-	padding-bottom: 28px;
-	padding-left: 15px;
-	padding-right: 15px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 2px;
+	padding-right: 2px;
 	background: #FFFFFF;
 }
 .feature:hover
